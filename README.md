@@ -10,7 +10,6 @@
 Clone the github repository and create Django admin interface
 
 ## Step 2:
-
 Change settings.py file to allow request from all hosts.
 
 ## Step 3:
